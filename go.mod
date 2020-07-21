@@ -1,4 +1,4 @@
-module github.com/ansermino/cbtest-eth
+module github.com/ansermino/cbtesteth
 
 go 1.14
 
